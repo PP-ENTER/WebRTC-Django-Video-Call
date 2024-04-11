@@ -73,6 +73,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'videocall.wsgi.application'
+ASGI_APPLICATION = 'videocall.asgi.application'
 
 
 # Database
